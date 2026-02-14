@@ -278,7 +278,7 @@ const VideoSection = ({ t }: { t: any }) => {
         <div className="relative aspect-video rounded-3xl md:rounded-[40px] overflow-hidden shadow-[0_20px_50px_rgba(233,165,165,0.2)] border-4 md:border-8 border-white bg-brand-light">
           <iframe 
             className="absolute top-0 left-0 w-full h-full"
-            src="https://www.youtube.com/embed/Vb2nF2DnbMI?si=OvXQb4fE6Y4LWhm7" 
+            src="https://www.youtube.com/embed/3c1S0KxFLO0?si=O3KHEixpSGwzB_sC" 
             title="YouTube video player" 
             frameBorder="0" 
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
