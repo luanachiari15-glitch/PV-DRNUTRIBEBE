@@ -93,7 +93,6 @@ const translations: Record<Language, any> = {
     testimonials: { title: "Resultados Reais", subtitle: "Veja o que as mães estão compartilhando sobre o método" },
     curriculum: { title: "O que você recebe", subtitle: "Acesso Online Imediato • Conteúdo 100% Digital", mainTitle: "Conteúdo Principal", items: ["ACESSO AO APLICATIVO NUTRIBÉBÉ", "Início da introdução (4-12 meses)", "Sinais de prontidão", "Alimentos por fase", "Texturas: liso ao pedaço", "Quantidades por idade", "Rotina francesa para bebês", "O que evitar", "Organização do prato"], bonusTitle: "Bônus Exclusivos", bonusSub: "Grátis apenas hoje", bonusItems: [{ title: "Guia Visual Prático", sub: "Etapas explicadas visualmente" }, { title: "Planner de Cardápios", sub: "Organização semanal sem estresse" }, { title: "Receitas Testadas", sub: "Preparações rápidas e nutritivas" }], unlimited: "Acesso Vitalício", unlimitedSub: "Assista no seu tempo e ritmo" },
     offer: { badge: "Oferta especial", title: "Acesso ao Método", subtitle: "Tudo para a introdução alimentar", items: ["8 modules completos", "Acesso ao aplicativo NutriBébé", "Materiais para download", "3 bônus exclusivos", "Acesso vitálício", "Garantia de 60 dias"], from: "De 47€", toLabel: "por apenas", button: "Quero acesso agora →", launchNote: "Tarifa de lançamento excepcional. Este preço foi voluntariamente reduzido para as primeiras mães inscritas. Retornará em breve ao seu preço normal.", trust: "Pagamento 100% seguro" },
-    guarantee: { badge: "Risco Zero", title: "60 Dias de Garantia", subtitle: "Sua satisfação ou seu dinheiro de volta", text: "Estou tão confiante na eficácia deste método que ofereço uma garantia incondicional de 60 dias. Se por qualquer motivo você sentir que o conteúdo não é para você, basta enviar um e-mail e devolveremos 100% do seu investimento. Sem perguntas, sem burocracia." },
     about: { badge: "Sobre a autora", title: "Dra. Marie Dupont", role: "Nutricionista Infantil", bio: "Com 15 anos de experiência, Marie desenvolveu este método para ajudar mães a alimentarem seus bebês com confiança e carinho.", points: ["15 anos de experiência", "Especialista em bebês", "Método Nutri-Francês"] },
     faq: { title: "Dúvidas Comuns", subtitle: "Tire suas dúvidas", items: [{ q: "Qual a idade ideal?", a: "Para bebês entre 4 e 12 meses que estão iniciando a alimentação sólida." }, { q: "Serve para iniciantes?", a: "Sim! É um passo a passo desenhado para quem nunca passou pelo processo." }, { q: "Preciso cozinhar bem?", a: "Não. Focamos em praticidade para a rotina corrida de uma mãe." }] },
     final: { title1: "Sua jornada sem", title2: "estresse começa aqui", text: "Seu bebê merece o melhor. Você merece tranquilidade.", button: "Começar agora →" },
@@ -118,7 +117,6 @@ const translations: Record<Language, any> = {
     testimonials: { title: "Real Results", subtitle: "See what mothers are sharing about the method" },
     curriculum: { title: "What's Included", subtitle: "Immediate Online Access • 100% Digital Content", mainTitle: "Main Lessons", items: ["ACCESS TO THE NUTRIBÉBÉ APP", "Starting solids (4-12m)", "Readiness signals", "Food stages", "Safe textures", "Portion sizes", "French baby routine", "What to avoid", "Plate organization"], bonusTitle: "Free Bonuses", bonusSub: "Today only", bonusItems: [{ title: "Visual Guide", sub: "Stages explained visually" }, { title: "Menu Planner", sub: "Weekly stress-free organization" }, { title: "Tested Recipes", sub: "Fast and nutritious" }], unlimited: "Lifetime Access", unlimitedSub: "Watch at your own pace" },
     offer: { badge: "Special Offer", title: "Method Access", subtitle: "The ultimate feeding guide", items: ["8 full modules", "NutriBébé App Access", "Downloadable materials", "3 exclusive bonuses", "Lifetime access", "60-day guarantee"], from: "Was 47€", toLabel: "now for only", button: "Get access now →", launchNote: "Exceptional launch price. This price has been voluntarily reduced for the first registered mothers. It will soon return to its normal rate.", trust: "100% secure payment" },
-    guarantee: { badge: "Zero Risk", title: "60-Day Guarantee", subtitle: "Your satisfaction or your money back", text: "I am so confident in the effectiveness of this method that I offer an unconditional 60-day guarantee. If for any reason you feel the content is not for you, just send an email and we'll refund 100% of your investment. No questions, no hassle." },
     about: { badge: "The Author", title: "Dr. Marie Dupont", role: "Pediatric Nutritionist", bio: "With 15 years of experience, Marie created this method to help moms feed their babies with confidence.", points: ["15 years experience", "Baby specialist", "French Nutri-Method"] },
     faq: { title: "FAQ", subtitle: "Quick answers", items: [{ q: "What age?", a: "Ideal for babies 4-12 months starting solids." }, { q: "Is it for beginners?", a: "Yes, designed for first-time parents." }, { q: "Need to be a chef?", a: "No, we focus on practical daily life." }] },
     final: { title1: "Start your", title2: "journey today", text: "Your baby deserves the best. You deserve calm.", button: "Start now →" },
@@ -143,7 +141,6 @@ const translations: Record<Language, any> = {
     testimonials: { title: "Résultats Réels", subtitle: "Découvrez ce que les mamans partagent sur la méthode" },
     curriculum: { title: "Le Programme", subtitle: "Accès En Ligne Immédiat • Produit 100% Numérique", mainTitle: "Cours Principaux", items: ["ACCÈS À L'APPLICATION NUTRIBÉBÉ", "Débuter la diversification (4-12m)", "Signes de maturité", "Les étapes alimentaires", "Textures sécurisées", "Quantités par âge", "Routine bébé à la française", "Les interdits", "Organisation de l'assiette"], bonusTitle: "Bonus Gratuits", bonusSub: "Seulement aujourd'hui", bonusItems: [{ title: "Guide Visuel Pratique", sub: "Les étapes en images" }, { title: "Planner de Menus", sub: "Organisation hebdo sans stress" }, { title: "Recettes Testées", sub: "Rapides et nutritives" }], unlimited: "Accès à Vie", unlimitedSub: "À consulter à votre rythme" },
     offer: { badge: "Offre Spéciale", title: "Accès à la Méthode", subtitle: "Le guide ultime de diversification", items: ["8 modules complets", "Accès à l'application NutriBébé", "Documents à télécharger", "3 bonus exclusifs", "Accès à vie", "Garantie de 60 jours"], from: "Au lieu de 47€", toLabel: "maintenant pour", button: "Accéder maintenant →", launchNote: "Tarif de lançamento exceptionnel. Ce prix a été volontairement réduit pour les premières mamans inscrites. Il reviendra prochainement à son tarif normal.", trust: "Paiement 100% sécurisé" },
-    guarantee: { badge: "Risque Zéro", title: "60 Jours de Garantie", subtitle: "Votre satisfaction ou remboursé", text: "Je suis tellement confiante dans l'efficacité de cette méthode que j'offre une garantie inconditionnelle de 60 jours. Si, pour une raison quelconque, vous estimez que le contenu ne vous convient pas, envoyez simplement un e-mail et nous vous rembourserons 100 % de votre investissement. Sans questions, sans tracas." },
     about: { badge: "L'Auteure", title: "Dr Marie Dupont", role: "Nutritionniste Pédiatrique", bio: "Avec 15 ans d'expérience, Marie a créé cette méthode para ajudar as mamães a alimentar seu bébé com confiance.", points: ["15 ans d'expertise", "Spécialiste bébés", "Nutri-Méthode Française"] },
     faq: { title: "Questions", subtitle: "Réponses rapides", items: [{ q: "Quel âge ?", a: "Idéal pour les bébés de 4 à 12 meses débutant la diversification." }, { q: "Pour débutants ?", a: "Oui, conçu para les parents novices." }, { q: "Besoin d'être chef ?", a: "No, focus sur la vie quotidienne pratique." }] },
     final: { title1: "Commencez votre", title2: "aventure aujourd'hui", text: "Bébé mérite le melhor. Vous méritez le calme.", button: "Commencer agora →" },
@@ -573,32 +570,24 @@ const Offer = ({ t, onCheckout }: { t: any, onCheckout: () => void }) => (
   </section>
 );
 
-const GuaranteeSection = ({ t }: { t: any }) => (
+const GuaranteeSection = () => (
   <section className="py-16 md:py-24 px-4 bg-brand-light">
     <div className="max-w-4xl mx-auto flex flex-col items-center text-center">
-      <div className="relative mb-8 md:mb-12">
-        <div className="absolute inset-0 bg-brand-rose/10 rounded-full blur-3xl transform scale-150"></div>
-        <img 
-          src={IMAGES.trust.guaranteeBadge} 
-          alt="Garantia" 
-          className="w-32 h-32 md:w-48 md:h-48 relative z-10 drop-shadow-xl"
-        />
-      </div>
-      <Badge className="mb-6">{t.guarantee.badge}</Badge>
-      <h2 className="text-3xl md:text-5xl font-serif font-bold text-gray-800 mb-4">{t.guarantee.title}</h2>
-      <p className="text-brand-rose font-extrabold text-xs md:text-sm uppercase tracking-[0.2em] mb-8">{t.guarantee.subtitle}</p>
+      <Badge className="mb-6">RISQUE ZÉRO</Badge>
+      <h2 className="text-3xl md:text-5xl font-serif font-bold text-gray-800 mb-4 tracking-tight">60 JOURS DE GARANTIE</h2>
+      <p className="text-brand-rose font-extrabold text-xs md:text-sm uppercase tracking-[0.2em] mb-8">VOTRE SATISFACTION OU REMBOURSÉ</p>
       <p className="text-gray-600 text-sm md:text-lg leading-relaxed max-w-2xl italic font-medium">
-        "{t.guarantee.text}"
+        "Je suis tellement confiante dans l'efficacité de cette méthode que j'offre une garantie inconditionnelle de 60 jours. Si, pour une raison quelconque, vous estimez que le contenu ne vous convient pas, envoyez simplement un e-mail et nous vous rembourserons 100 % de votre investissement. Sans questions, sans tracas."
       </p>
       <div className="mt-12 flex items-center gap-6 text-gray-400">
         <div className="flex flex-col items-center gap-2">
           <ShieldCheck size={24} />
-          <span className="text-[10px] uppercase font-bold tracking-widest">Seguro</span>
+          <span className="text-[10px] uppercase font-bold tracking-widest">SÉCURISÉ</span>
         </div>
         <div className="w-px h-8 bg-gray-200"></div>
         <div className="flex flex-col items-center gap-2">
           <RotateCcw size={24} />
-          <span className="text-[10px] uppercase font-bold tracking-widest">Incondicional</span>
+          <span className="text-[10px] uppercase font-bold tracking-widest">INCONDITIONNEL</span>
         </div>
       </div>
     </div>
@@ -702,7 +691,7 @@ export default function App() {
       <Testimonials t={t} />
       <Curriculum t={t} />
       <Offer t={t} onCheckout={goToCheckout} />
-      <GuaranteeSection t={t} />
+      <GuaranteeSection />
       <About t={t} />
       <FAQ t={t} />
       <FinalCTA t={t} onCheckout={goToCheckout} />
