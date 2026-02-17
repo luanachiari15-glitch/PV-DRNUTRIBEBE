@@ -562,8 +562,13 @@ const Offer = ({ t, onCheckout }: { t: any, onCheckout: () => void }) => (
             {t.offer.launchNote}
           </p>
         </div>
-        <div className="flex items-center justify-center gap-2 md:gap-3 text-green-600 text-[10px] md:text-xs uppercase font-extrabold tracking-widest bg-green-50 py-3 px-6 rounded-full inline-flex border border-green-100">
-          <CheckCircle2 size={16} /> {t.offer.trust}
+        <div className="flex flex-col items-center gap-3">
+          <div className="flex items-center justify-center gap-2 md:gap-3 text-green-600 text-[10px] md:text-xs uppercase font-extrabold tracking-widest bg-green-50 py-3 px-6 rounded-full inline-flex border border-green-100">
+            <CheckCircle2 size={16} /> {t.offer.trust}
+          </div>
+          <p className="text-[10px] md:text-xs text-gray-400 font-medium">
+            60-day money-back guarantee – no questions asked
+          </p>
         </div>
       </div>
     </div>
